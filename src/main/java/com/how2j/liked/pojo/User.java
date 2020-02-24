@@ -1,7 +1,10 @@
-package com.how2j.pojo;
+package com.how2j.liked.pojo;
 
 import java.io.Serializable;
 
+/**
+ * 测试redis功能的实体类
+ */
 public class User implements Serializable {
 
     private static final long serialVersionUID = 8702804811257460407L;

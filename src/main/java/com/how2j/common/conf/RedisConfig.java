@@ -1,4 +1,4 @@
-package com.how2j.conf;
+package com.how2j.common.conf;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
